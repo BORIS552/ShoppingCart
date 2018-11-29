@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ShoppingCart</string>
+    <string name="email_hint">Enter your mail id</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="mobile_hint">Enter your mobile number</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="button_register">Register</string>
+    <string name="button_login">Login</string>
+    <string name="button_logout">Logout</string>
+    <string name="existing_user">Already registered login here!!!</string>
+    <string name="new_user">Not registered!!! Sign up here....</string>
+    <string name="category_one">Electronics</string>
+    <string name="category_two">Appliances</string>
+    <string name="category_three">Fashion</string>
+    <string name="category_four">Groceries</string>
+    <string name="category_five">Hot Deals</string>
+    <string name="electronics_fragment">Electronics Store</string>
+    <string name="appliance_fragment">Appliances</string>
+    <string name="fashion_fragment">Fashion</string>
+    <string name="groceries_fragment">Groceries</string>
+    <string name="hotdeals_fragment">Hot Deals</string>
+    <string name="myprofile_fragment">My Profile</string>
+    <string name="wishlist">WishList</string>
+    <string name="cart">Cart</string>
+    <string name="add_to_cart">Buy Now</string>
+    <string name="add_to_wishlist">Wishlist</string>
+    <string name="remove_from_wishlist">Remove</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_electronics"
+        android:icon="@drawable/electronics_black_24dp"
+        android:title="@string/category_one"
+        />
+
+    <item
+        android:id="@+id/nav_appliances"
+        android:icon="@drawable/appliances_black_24dp"
+        android:title="@string/category_two"
+        />
+
+    <item
+        android:id="@+id/nav_fashion"
+        android:icon="@drawable/fashion_black_24dp"
+        android:title="@string/category_three"
+        />
+
+    <item
+        android:id="@+id/nav_groceries"
+        android:icon="@drawable/groceries_black_24dp"
+        android:title="@string/category_four"
+        />
+
+    <item
+        android:id="@+id/nav_hotdeals"
+        android:icon="@drawable/hotdeals_black_24dp"
+        android:title="@string/category_five"
+        />
+</menu>

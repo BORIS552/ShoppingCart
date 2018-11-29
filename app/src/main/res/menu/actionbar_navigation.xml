@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/wishlist"
+        android:icon="@drawable/wishlist_black_24dp"
+        android:title="@string/wishlist"
+        app:showAsAction="always"
+        />
+    <item
+        android:title="@string/cart"
+        android:id="@+id/cart"
+        android:icon="@drawable/cart_black_24dp"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/myprofile"
+        android:icon="@drawable/myprofile_black_24dp"
+        android:title="@string/myprofile_fragment"
+        app:showAsAction="always"
+        />
+
+</menu>
